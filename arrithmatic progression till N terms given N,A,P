@@ -1,0 +1,7 @@
+ def Nth_of_AP(a,d,N):
+    return(a+(n-1)*d)
+a=int(input("enter the number"))
+d=int(input("enter the number"))
+N=int(input("enter the number"))
+print("the",N,"th term of the series is:",Nth_of_AP(a,d,N)) def Nth_of_AP(a,d,N):
+    
